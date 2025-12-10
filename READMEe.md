@@ -5,4 +5,6 @@ Pianissimo
 
 -El archivo "index.html" es la aplicacion que mediante bluetooth, va a controlar todo el Hardware
 
+se puede ver la pagina aca <a=https://drvelazquez.github.io/Pianissimo/>ACA</a>
+
 -El archivo "Barrido de prueba 15seg.mid" es un archivo midi que toca todas las 88 notas del piano en 15 segundos para testear si todo esta funcionando en orden. 
